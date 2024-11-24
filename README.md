@@ -6,7 +6,7 @@ This project focuses on predicting whether a user will purchase a mobile ad base
 
 Make sure you have the following dependencies installed:
 
-- Python (>=3.6)
+- Python (>=3.6) 
 - pandas
 - numpy
 - seaborn
