@@ -4,7 +4,7 @@ This project focuses on predicting whether a user will purchase a mobile ad base
  
 ## Prerequisites
 
-Make sure you have the following dependencies installed:
+Make sure you have the following dependencies installed: 
 
 - Python (>=3.6) 
 - pandas
